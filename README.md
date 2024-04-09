@@ -1,4 +1,4 @@
-<img width="1050" alt="Screenshot 2024-04-09 at 14 31 12" src="https://github.com/lucashomuniz/Project-17/assets/123151332/308094f4-0892-4d7c-8d60-4941d0dbfa45"># ✅ PROJECT-17
+✅ PROJECT-17
 
 Netflix, Inc., an American subscription streaming service and production company, commenced its operations on August 29, 1997. It boasts an extensive library of films and television series acquired through licensing agreements and in-house production.
 
