@@ -14,17 +14,16 @@ Keywords: Data Analysis, Statistical Analysis, Data Science, Machine Learning, B
 
 Part 1
 
-1 - Which film in the 'Films (English)' category holds the record for the most appearances in our dataset (NFLX Top 10 tab of the Sheet)? What is its average weekly hours viewed, excluding the week of the outage?
-2 - Among the films in the 'Films (English)' category, which one has the lowest IMDb rating? What is its average weekly hours viewed, excluding the week of the outage?
-3 - In the 'Films (Non-English)' category, which film has maintained the highest number of weeks in the top 10? To approximate the number of viewers for this film, what assumptions would you rely on, and what potential risks are associated?
-4 - What are the consequences of disregarding the data from the week of May 22nd when computing the metrics from the previous questions?
-5 - Although we cannot incorporate the 'weekly_hours_viewed' data for the week of May 22nd into our estimates, there might be a need to fill in this missing information for other analyses. As a Data Specialist, what approach would you suggest for estimating the 'weekly_hours_viewed' for this absent week?
+1. Which film in the 'Films (English)' category holds the record for the most appearances in our dataset (NFLX Top 10 tab of the Sheet)? What is its average weekly hours viewed, excluding the week of the outage?
+2. Among the films in the 'Films (English)' category, which one has the lowest IMDb rating? What is its average weekly hours viewed, excluding the week of the outage?
+3. In the 'Films (Non-English)' category, which film has maintained the highest number of weeks in the top 10? To approximate the number of viewers for this film, what assumptions would you rely on, and what potential risks are associated?
+4. What are the consequences of disregarding the data from the week of May 22nd when computing the metrics from the previous questions?
+5. Although we cannot incorporate the 'weekly_hours_viewed' data for the week of May 22nd into our estimates, there might be a need to fill in this missing information for other analyses. As a Data Specialist, what approach would you suggest for estimating the 'weekly_hours_viewed' for this absent week?
 
 Part 2
 
-6 - Based on your interpretation, is the information conveyed in this report advantageous or disadvantageous for NFLX as a company? Provide reasons for your assessment.
-7 - Identify three inquiries that our clients may raise after reviewing the report.
-8 - Please specify your level of proficiency in any coding skills you possess. If you do not have any coding skills, please state "NA".
+6. Based on your interpretation, is the information conveyed in this report advantageous or disadvantageous for NFLX as a company? Provide reasons for your assessment.
+7. Identify three inquiries that our clients may raise after reviewing the report.
 
 # ✅ CONCLUSION
 
