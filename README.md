@@ -10,16 +10,13 @@ Keywords: Data Analysis, Statistical Analysis, Data Science, Machine Learning, B
 
 This analysis comprises two sections. **Part 1** examines the **Netflix Top 10** dataset, focusing on film frequency, **IMDb ratings**, viewership metrics, data estimation methods, and the impact of excluding specific data points. **Part 2** assesses a report on our **Streaming Video product**, evaluating its advantages and disadvantages for **Netflix** and anticipating potential client inquiries. This structure demonstrates expertise in data analysis, critical evaluation, and effective communication of dataset-derived insights.
 
-**Part 1**
-1. Identify the film in the 'Films (English)' category with the highest number of appearances in the **Netflix Top 10** dataset. What is its average weekly hours viewed, excluding the outage week?
-2. Which film in the 'Films (English)' category has the lowest **IMDb rating**? What is its average weekly hours viewed, excluding the outage week?
-3. In the 'Films (Non-English)' category, which film has the longest tenure in the top 10? What assumptions and associated risks are involved in estimating its viewership?
-4. What are the implications of excluding data from the week of May 22nd when calculating the aforementioned metrics?
-5. As a Data Specialist, propose a method to estimate the 'weekly_hours_viewed' for May 22nd, given its absence from our estimates.
-
-**Part 2**
-6. Does the report's information present advantages or disadvantages for **Netflix**? Justify your evaluation.
-7. List three potential client questions following their review of the report.
+Question 1: Identify the film in the 'Films (English)' category with the highest number of appearances in the **Netflix Top 10** dataset. What is its average weekly hours viewed, excluding the outage week?
+Question 2: Which film in the 'Films (English)' category has the lowest **IMDb rating**? What is its average weekly hours viewed, excluding the outage week?
+Question 3: In the 'Films (Non-English)' category, which film has the longest tenure in the top 10? What assumptions and associated risks are involved in estimating its viewership?
+Question 4: What are the implications of excluding data from the week of May 22nd when calculating the aforementioned metrics?
+Question 5: As a Data Specialist, propose a method to estimate the 'weekly_hours_viewed' for May 22nd, given its absence from our estimates.
+Question 6: Does the report's information present advantages or disadvantages for **Netflix**? Justify your evaluation.
+Question 7: List three potential client questions following their review of the report.
 
 # ✅ CONCLUSION
 
