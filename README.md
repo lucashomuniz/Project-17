@@ -58,6 +58,7 @@ To address these challenges and sustain growth, Netflix must focus on **innovati
 
 <img width="1050" alt="Screenshot 2024-04-09 at 14 31 12" src="https://github.com/lucashomuniz/Project-17/assets/123151332/4bab2f8e-a742-438a-992c-1cbf1a005a7d">
 
+
 > **Question 7: List three potential client questions following their review of the report.** 
 
 **Enhancing Customer Engagement and Retention**: 
