@@ -8,7 +8,7 @@ Keywords: Data Analysis, Statistical Analysis, Data Science, Machine Learning, B
 
 # ✅ PROCESS
 
-This analysis comprises two sections. **Part 1** examines the **Netflix Top 10** dataset, focusing on film frequency, **IMDb ratings**, viewership metrics, data estimation methods, and the impact of excluding specific data points. **Part 2** assesses a report on our **Streaming Video product**, evaluating its advantages and disadvantages for **Netflix** and anticipating potential client inquiries. This structure demonstrates expertise in data analysis, critical evaluation, and effective communication of dataset-derived insights.
+This analysis comprises two sections: **Part 1** examines the **Netflix Top 10** dataset, focusing on film frequency, **IMDb ratings**, viewership metrics, data estimation methods, and the impact of excluding specific data points. **Part 2** assesses a report on our **Streaming Video product**, evaluating its advantages and disadvantages for **Netflix** and anticipating potential client inquiries. This structure demonstrates expertise in data analysis, critical evaluation, and effective communication of dataset-derived insights.
 
 # ✅ CONCLUSION
 
