@@ -28,11 +28,12 @@ This analysis comprises two sections. **Part 1** examines the **Netflix Top 10**
 1. **Sonic the Hedgehog** achieved the highest number of appearances with **8,550,000** weekly hours viewed.
 <img width="1210" alt="Screenshot 2024-04-09 at 14 25 12" src="https://github.com/lucashomuniz/Project-17/assets/123151332/a79e96cb-0b5e-41e9-92a9-486394509bcb">
 
+
 2. **Chickenhare and the Hamster of Darkness** holds the lowest **IMDb rating** with **14,843,333** weekly hours viewed.
 <img width="1210" alt="Screenshot 2024-04-09 at 14 25 51" src="https://github.com/lucashomuniz/Project-17/assets/123151332/15a296e5-2df4-4759-90fe-fdfbaad7873c">
 
-3. **"Through my Window"** remained in the top 10 for **13 weeks**. To estimate viewership, personal account data from Netflix was utilized. By dividing four weeks of viewing hours by the monthly average, an estimate of **17,897** weekly views was derived, considering the film's **116-minute runtime**. Risks include potential deviation from the global average if the account is not representative. This method ensures reliability through the use of personal data.
 
+3. **"Through my Window"** remained in the top 10 for **13 weeks**. To estimate viewership, personal account data from Netflix was utilized. By dividing four weeks of viewing hours by the monthly average, an estimate of **17,897** weekly views was derived, considering the film's **116-minute runtime**. Risks include potential deviation from the global average if the account is not representative. This method ensures reliability through the use of personal data.
 <img width="1210" alt="Screenshot 2024-04-09 at 14 25 51" src="https://github.com/lucashomuniz/Project-17/assets/123151332/33b24ca9-a171-457e-8e00-b38e6ab9b526">
 
 4. Excluding data from **May 22nd** may lead to underestimation of title performance and biased trend analysis, affecting content recommendations. Specifically, excluding this week results in a **12.50%** increase in average weekly views from **7,481,250** to **8,550,000**, altering the ranking of top movies. Additionally, eight other films in the **"Films (English)"** category have zero **IMDb ratings**, which could skew average view metrics by **50%** if not addressed. The highest recurring movie is unaffected by the outage date.
