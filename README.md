@@ -56,6 +56,8 @@ However, Netflix faces several challenges. The **declining percentage** of its s
 
 To address these challenges and sustain growth, Netflix must focus on **innovation**, **content differentiation**, and **customer engagement**. By introducing new features and technologies, creating unique and compelling content, and fostering stronger connections with its subscribers through personalized experiences and responsive support, Netflix can better adapt to **evolving market dynamics** and changing **consumer preferences**. This strategic focus will enable the company to navigate the competitive landscape effectively and maintain its position as a leader in the streaming industry.
 
+![image](https://github.com/user-attachments/assets/58204b32-c97d-49bb-a2b1-e25990b2ff12)
+
 > **Question 7: List three potential client questions following their review of the report.** 
 
 **Enhancing Customer Engagement and Retention**: 
