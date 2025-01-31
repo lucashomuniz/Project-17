@@ -1,4 +1,4 @@
-# ✅ PROJECT-17
+# ✅ PROJECT-08
 
 In this project, **Netflix, Inc.**, a prominent American **subscription streaming service** and **production company**, was founded on August 29, 1997. It offers an extensive library of **films** and **television series** acquired through **licensing agreements** and **in-house production**. **Netflix** publishes its **top 10 titles** weekly, along with the corresponding **viewing hours** for each title. These rankings are segmented into four categories: **English Films**, **Non-English Films**, **English TV**, and **Non-English TV**. This data is vital for **investors** seeking insights into **Netflix's content strategy**, including the **production** and **licensing** of engaging content, the **effectiveness** of investments in new **genres** or **geographies**, and **viewership trends** over time, all of which influence **subscriber numbers**.
 
